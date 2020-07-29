@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! 👋💻
 
-<!--
-**knasserc/knasserc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karen and I'm a Junior Front-end Developer based in Lisbon - Portugal. I work with Angular, HTML, CSS, JavaScript, Bootstrap and I'm still learning other languages. I am an organized, creative person and I enjoy teamwork and I will always be learning and sharing experiences.
 
-Here are some ideas to get you started:
+I like challenging projects and positive people. I put affection in what I do and I am very focused on my work :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning ReactJS and exploring more the world of Angular.
+
+📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karencantero/)](https://www.linkedin.com/in/karencantero/)
+
+https://linktr.ee/karennasser
